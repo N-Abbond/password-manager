@@ -1,0 +1,7 @@
+os-sys
+pysqlite3
+argon2
+argon2-cffi
+pybase64
+pip-json
+cryptography
